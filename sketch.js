@@ -12,6 +12,8 @@ function setup() {
 	createCanvas(1600, 700);
 	rectMode(CENTER);
 
+//this is for test purpose
+
 
 	engine = Engine.create();
 	world = engine.world;
